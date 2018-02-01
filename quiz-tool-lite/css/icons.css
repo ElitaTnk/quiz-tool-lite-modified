@@ -1,0 +1,53 @@
+/* CSS Document */
+
+
+.addIcon
+{
+	background:url(../images/icons/add.png) left no-repeat;
+	padding-left:20px; padding-top:3px;	padding-bottom:3px;	margin:2px;
+
+}
+
+.editIcon
+{
+	background:url(../images/icons/pencil.png) left no-repeat;
+	padding-left:20px; padding-top:3px;	padding-bottom:3px;	margin:2px;
+}
+
+.copyIcon
+{
+	background:url(../images/icons/page_copy.png) left no-repeat;
+	padding-left:20px; padding-top:3px;	padding-bottom:3px;	margin:2px;
+}
+
+.deleteIcon
+{
+	background:url(../images/icons/cancel.png) left no-repeat;
+	padding-left:20px; padding-top:3px;	padding-bottom:3px; margin:2px;
+}
+
+.tickIcon
+{
+	background:url(../images/icons/tick.png) left no-repeat;
+	padding-left:20px; padding-top:3px;	padding-bottom:3px;	margin:2px;
+}
+
+.backIcon
+{
+	background:url(../images/icons/arrow_left.png) left no-repeat;
+	padding-left:20px; padding-top:3px;	padding-bottom:3px;	margin:2px;
+}
+
+
+.dataIcon {
+	background:url(../images/icons/chart_curve.png) left top no-repeat;	
+	padding-left:20px;
+	margin-top:30px
+}
+
+.boundaryIcon {
+	background:url(../images/icons/timeline_marker.png) left top no-repeat;	
+	padding-left:20px;
+	margin-top:30px
+}
+
